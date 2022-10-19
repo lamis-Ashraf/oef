@@ -1,0 +1,9 @@
+@media only-secreen (max-width:575.98px){
+    .flex{
+        display: block;
+        background-color: rgb(199, 199, 39);
+    }
+    .around{
+        display: block;
+    }
+}
